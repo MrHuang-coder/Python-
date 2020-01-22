@@ -1,1 +1,1 @@
-print('welcme')
+print('wele')
